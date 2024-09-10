@@ -8,7 +8,5 @@ export default styles = StyleSheet.create({
   },
   logo: {
     height: 100,
-    width: 100,
-    alignItems: "center",
-  },
+    width: 100,  },
 });
